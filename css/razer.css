@@ -1,0 +1,96 @@
+*{
+padding: 0;
+margin: 0;
+font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS',sans-serif;
+}
+ .container{
+
+    background-color: black;
+
+ display: flex;
+justify-content: space-between;
+align-items: center;
+width: 100%;
+margin: auto;
+
+ }
+ ul li{
+    display: inline-block;
+    padding: 50px;
+    padding: 50px;
+    
+
+
+
+ 
+ }
+
+ ul li a{
+
+    color: white;
+    text-decoration: none;
+    font-size: large;
+    font-weight: 500;
+
+
+ }
+ body{
+
+    background-image: url(https://www.mkaugaming.com/wp-content/uploads/2020/09/2020-09-24_00005.jpg);
+    background-size: cover;
+ }
+
+ .P1{
+color: white;
+font-size: 5em;
+text-align: center;
+position: absolute;
+top: 40%;
+left: 10%;
+font-family: 'Times New Roman', Times, serif09;
+
+ }
+ ul li a:hover{
+
+    color: greenyellow;
+  animation: backwards;
+
+}
+
+/*mobile*/
+@media(max-width:767px){
+
+
+.all{
+
+
+   background-image: url(https://i.pinimg.com/564x/75/a5/75/75a575aeb2244d7a4b4cb7314f977ce3.jpg);
+
+  
+
+
+      
+
+
+
+
+
+
+
+/*large screen*/
+
+@media(max-width:1200px){
+
+
+   .all{
+
+      background-image: url((https://i.pinimg.com/564x/75/a5/75/75a575aeb2244d7a4b4cb7314f977ce3.jpg);
+      display: cover;
+
+
+
+}
+
+}
+
+
